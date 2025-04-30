@@ -1,0 +1,17 @@
+# BUSCO version is: 5.2.2 
+# The lineage dataset is: diptera_odb10 (Creation date: 2024-01-08, number of genomes: 56, number of BUSCOs: 3285)
+# Summarized benchmarking in BUSCO notation for file /home/STUDENTI/filippo.antonini5/LabGenomicaComparata/01analysis/01_Assembly/03_Annotation/00_anno1/outputmaker.maker.output/outputmaker.all.maker.proteins.fasta
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:94.5%[S:94.2%,D:0.3%],F:1.5%,M:4.0%,n:3285	   
+	3102	Complete BUSCOs (C)			   
+	3093	Complete and single-copy BUSCOs (S)	   
+	9	Complete and duplicated BUSCOs (D)	   
+	50	Fragmented BUSCOs (F)			   
+	133	Missing BUSCOs (M)			   
+	3285	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.1
